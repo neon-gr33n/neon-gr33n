@@ -36,6 +36,7 @@ As far as pronouns go, I'm comfortable with any, I do not mind in the slightest.
 Curious? have questions? feel free to contact me using any of the contact methods listed below, one thing I'd like to note however is
 1. My timezone is EST (Easten Standard Time UTC−05:00)
 Thank you.
+
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sa.sweat@yahoo.com?subject=Inquiry)
 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/neongr33n)
 
