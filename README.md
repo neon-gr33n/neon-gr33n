@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Neon-Gr33n, an avid **programmer**, **game developer**, and learning musician
+I'm Neon-Gr33n, or Skylar Sweat, if you prefer anything other than online pseudonyms- I'm an avid **programmer**, **game developer**, and learning musician
 I'm [Neurodivergent](https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645) more specificially, my conditions are Autism Spectrum Disorder (ASD) and Attention-Deficit Hyperactive Disorder (ADD)
 but I don't let any of these conditions stop me from what I love doing! live and let live, is what I always say.
 
@@ -30,6 +30,16 @@ Learning
 [<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">](https://nextjs.org/) 
 
 Unreal Engine
+
+As far as pronouns go, I'm comfortable with any, I do not mind in the slightest.
+
+Curious? have questions? feel free to contact me using any of the contact methods listed below, one thing I'd like to note however is
+1. My timezone is EST (Easten Standard Time UTC−05:00)
+Thank you.
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sa.sweat@yahoo.com?subject=Inquiry)
+[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/neongr33n)
+
+
 
 
 
