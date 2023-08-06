@@ -34,7 +34,7 @@ Unreal Engine
 As far as pronouns go, I'm comfortable with any, I do not mind in the slightest.
 
 Curious? have questions? feel free to contact me using any of the contact methods listed below, one thing I'd like to note however is
-1. My timezone is EST (Easten Standard Time UTC−05:00)
+1. My timezone is EST (Eastern Standard Time UTC−05:00)
 Thank you.
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sa.sweat04@yahoo.com?subject=Inquiry)
