@@ -37,7 +37,7 @@ Curious? have questions? feel free to contact me using any of the contact method
 1. My timezone is EST (Easten Standard Time UTC−05:00)
 Thank you.
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sa.sweat@yahoo.com?subject=Inquiry)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sa.sweat04@yahoo.com?subject=Inquiry)
 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/neongr33n)
 
 
