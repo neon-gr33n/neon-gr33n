@@ -5,7 +5,7 @@ but I don't let any of these conditions stop me from what I love doing! live and
 
 I'm currently working on 
 
-[<img src="ue_logo.png">](http://example.com/
+[<img src="ue_logo.png">](http://example.com/)
 
 
 <!--
