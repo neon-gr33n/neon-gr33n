@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! 👋
+I'm Neon-Gr33n, an avid **programmer**, **game developer**, and learning musician
+I'm [Neurodivergent](https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645) more specificially, my conditions are Autism Spectrum Disorder (ASD) and Attention-Deficit Hyperactive Disorder (ADD)
+but I don't let any of these conditions stop me from what I love doing! live and let live, is what I always say.
+
+I'm currently working on 
+[Logo of the "Gritfell" a Undertale fangame/Underfell take by myself and my team suitably named "Team Grit"](https://m.gjcdn.net/content/600/23158444-ll-2iqdg8qr-v4.webp)(https://gamejolt.com/games/tg-fell-official/365971)
+[Logo of "UNDERENGINE" a versatile UNDERTALE fangame engine made by myself using a few third party libraries](https://github.com/purrception/underengine/assets/41244356/57504c54-da8b-42c9-9d14-268d9c5552c5)(https://github.com/neon-gr33n/underengine/tree/main)
+
 
 <!--
 **neon-gr33n/neon-gr33n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
