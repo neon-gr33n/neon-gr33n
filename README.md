@@ -9,6 +9,7 @@ I'm currently working on
 [<img src="gritfell_logo.png">](https://gamejolt.com/games/tg-fell-official/365971)
 
 Tech Stack 
+
 [<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">](https://fontawesome.com/)
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">](https://sass-lang.com/)
 [<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">](https://webpack.js.org/)
@@ -23,6 +24,7 @@ Unity,
 GameMaker: Studio (1.4 - 2)
 
 Learning
+
 [<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">](https://www.electronjs.org/) 
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">]
 [<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">](https://nextjs.org/) 
