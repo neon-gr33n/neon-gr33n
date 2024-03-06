@@ -1,4 +1,4 @@
-### Hi there! 👋
+# Hi there! 👋
 I'm Neon-Gr33n, or Skylar Sweat, if you prefer anything other than online pseudonyms- I'm an avid **programmer**, **game developer**, and learning musician
 I'm [Neurodivergent](https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645) more specificially, my conditions are Autism Spectrum Disorder (ASD) and Attention-Deficit Hyperactive Disorder (ADD)
 but I don't let any of these conditions stop me from what I love doing! live and let live, is what I always say.
@@ -10,7 +10,7 @@ I'm currently working on
 [<img src="ue_logo.png">](https://github.com/neon-gr33n/underengine/tree/main)
 [<img src="gritfell_logo.png">](https://gamejolt.com/games/tg-fell-official/365971)
 
-Tech Stack 
+## Tech Stack 
 
 [<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">](https://fontawesome.com/)
 [<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">](https://sass-lang.com/)
@@ -25,7 +25,7 @@ Tech Stack
 Unity,
 GameMaker: Studio (1.4 - 2)
 
-Learning
+## Learning
 
 [<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">](https://www.electronjs.org/) 
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">]
