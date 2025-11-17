@@ -9,29 +9,6 @@ I'm currently working on
 
 [<img src="ue_logo.png">](https://github.com/neon-gr33n/underengine/tree/main)
 
-## Tech Stack 
-
-[<img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">](https://fontawesome.com/)
-[<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">](https://sass-lang.com/)
-[<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">](https://webpack.js.org/)
-[<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">](https://vuejs.org/)
-[<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">](https://nodejs.org/en)
-[<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">](https://mui.com/)
-[<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">](https://jquery.com/)
-[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">](https://getbootstrap.com/)
-[<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">](https://www.mongodb.com/)
-
-Unity,
-GameMaker: Studio (1.4 - 2)
-
-## Learning
-
-[<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9">](https://www.electronjs.org/) 
-[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">]
-[<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">](https://nextjs.org/) 
-
-Unreal Engine
-
 As far as pronouns go, I'm comfortable with any, I do not mind in the slightest.
 
 Curious? have questions? feel free to contact me using any of the contact methods listed below, one thing I'd like to note however is
