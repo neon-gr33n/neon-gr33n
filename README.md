@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Neon-Gr33n, or Skylar Sweat, if you prefer anything other than online pseudonyms- I'm an avid **programmer**, **game developer**, and learning musician
+I'm Neon-Gr33n, I'm an avid **programmer**, **game developer**, and learning musician
 I'm [Neurodivergent](https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645) more specificially, my conditions are Autism Spectrum Disorder (ASD) and Attention-Deficit Hyperactive Disorder (ADD)
 but I don't let any of these conditions stop me from what I love doing! live and let live, is what I always say.
 
