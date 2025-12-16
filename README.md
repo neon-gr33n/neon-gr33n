@@ -7,7 +7,7 @@ but I don't let any of these conditions stop me from what I love doing! live and
 
 I'm currently working on 
 
-[<img src="ue_logo.png">](https://github.com/neon-gr33n/underengine/tree/main)
+[<img src="underengine_logo_text.png">](https://github.com/neon-gr33n/underengine/tree/main)
 
 As far as pronouns go, I'm comfortable with any, I do not mind in the slightest.
 
